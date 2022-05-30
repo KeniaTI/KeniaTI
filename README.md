@@ -22,8 +22,8 @@
 <h5>Excel.<h5>
   
 <h3>Contatos:</h3>
-<h5>Celular: (61)993134147</h5>
-<h5>E-mail: keniapereiraduarte12@gmail.com</h5> 
+<h5>📱(61)993134147</h5>
+<h5>📧keniapereiraduarte12@gmail.com</h5> 
  
  <a href="https://www.linkedin.com/in/kenia-pereira-duarte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
