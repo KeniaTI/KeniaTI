@@ -1,4 +1,4 @@
-<h1> Oi, sou a Kenia. </h1>
+<h1> Oi, sou a Kenia.👩🏻‍💻 </h1>
 <h5> Sou tecnóloga em Sistemas para Internet, com foco em qualidade de software, mas também amo a área de requisitos. Busco aprender mais, tenho entusiasmo pela qualidade e inovação e estou disposta a crescer na área. Dedicada ao que faço, objetiva, responsável e pontual. Buscando a primeira oportunidade como trainee ou júnior na área de QA. Terminei um treinamento de QA pela School MJV e comecei o curso da Priscila de Araújo, que é o método PDA do requisito à prática em testes.</h5>
 <h3>Hard Skills:</h3>
 <h5>Conhecimento em lógica de programação;</h5>
